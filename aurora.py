@@ -2,7 +2,7 @@ from random import random
 import time
 import string
 import json
-github = "INSERT_GITHUB_REPO"
+github = "https://github.com/Diamondz-coding/AURORATOOLS"
 import subprocess
 from pprint import pprint
 from urllib import response
