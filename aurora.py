@@ -131,6 +131,7 @@ def loopback():
             amount_info_genned += 1
         input("Press ENTER to continue.")
         os.system('cls||clear')
+        loopback()
     elif main == "5":
         
         ask_webhook = input("Enter the webhook you want to spam: ")
